@@ -20,12 +20,12 @@ Cardiovascular diseases (CVDs) are the leading cause of mortality worldwide. Thi
 
 ---
 
-## 📂 Repository Structure  
-- **data/** → Dataset (or link to Kaggle if licensing restricts upload)  
-- **notebooks/** → Jupyter notebooks for EDA, preprocessing, training  
-- **src/** → Scripts for data preprocessing, model training, evaluation  
-- **results/** → Metrics, figures, visualisations  
-- **docs/** → Dissertation document / summary  
+## 📂 Repository Structure
+- **Code/** → All project code (Jupyter notebooks & Python scripts)  
+- **Data/** → Raw and processed datasets (or links to Kaggle if licensing applies)  
+- **Results/** → Model evaluation metrics, visualisations, figures  
+- **Docs/** → Dissertation, methodology, references, supporting documents  
+
 
 ---
 
